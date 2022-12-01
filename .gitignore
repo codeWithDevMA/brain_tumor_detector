@@ -7,5 +7,10 @@ histo_yes.csv
 outputhisto_no.csv
 outputhisto_yes.csv
 
+histo_no_sift.csv
+histo_yes_sift.csv
+outputhisto_no_sift.csv
+outputhisto_yes_sift.csv
+
 
 
